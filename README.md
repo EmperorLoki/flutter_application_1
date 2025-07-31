@@ -7,4 +7,3 @@
 - git add .
 - git commit -m "feat: add Hello, OOP! home screen"
 - git push
-- hakdog
